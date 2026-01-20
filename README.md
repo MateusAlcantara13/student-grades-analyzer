@@ -1,6 +1,6 @@
 # 📊 Student Grades Analyzer — Python
 
-Projeto desenvolvido para praticar conceitos fundamentais de Python utilizando a versão mais recente da linguagem.  
+Projeto desenvolvido para praticar conceitos fundamentais de Python utilizando a versão 3.14.2 
 O sistema realiza a análise de notas de uma turma, aplicando validações, cálculos estatísticos básicos e geração de relatórios no terminal.
 
 ---
